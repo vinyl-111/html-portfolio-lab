@@ -21,6 +21,21 @@
            <hr>
            <button> SUBMIT </button>
         </FORM>
+        <u>User Name:</u> <input type="text" name="username" value="" placeholder=" Enter Username " >
+		<hr>
+		<u>Age:</u> <input type="number" name="age" value="" placeholder=" Enter Age" >
+		<hr>
+		<u>Email:</u> <input type="email" name="email" value="" placeholder="Enter Email">
+		<hr>
+		<u>Password:</u> <input type="password" name="password" value="" placeholder="Enter Password">
+		<hr>
+		<u>Phone number:</u> <input type="number" name="Phone number" value="" placeholder=" Enter Number">
+		<hr>
+		Male<input type="radio" name="button" value="Male">
+		Female<input type="radio" name="button" value="Female">
+		<hr>
+		<button>SUBMIT</button>
+
         <hr>
         <H1> Unordered list is presented as :</H1> <br>
         <h2> Hobbies </h2> <br>
