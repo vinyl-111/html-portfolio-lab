@@ -1,0 +1,47 @@
+<html>
+    <head> <title> Webpage 2 </title> </head>
+    <body>
+        <h1> TABLE CONTENTS </h1>
+        <table border= "3">
+            <tr>
+                <th> Name </th>
+                <th>  </th>
+            </tr>
+        </table>
+        <hr>
+        <h1> FORM CONTENTS </h1>
+        <FORM>
+            Name: <input type="text" name="Username" placeholder="Enter Username " value=" ">
+            <hr>
+            Email: <input type="email" name="email" value=" " >
+            <hr>
+            Password: <input type="password" name="password" value=" ">
+            <hr>
+            Address: <input type="text" name="address" value=" ">   
+           <hr>
+           <button> SUBMIT </button>
+        </FORM>
+        <hr>
+        <H1> Unordered list is presented as :</H1> <br>
+        <h2> Hobbies </h2> <br>
+        <ul>
+            <li> Painting  </li>
+            <li> Photography </li>
+            <li> Reading novels </li>
+            <li> Travelling</li>
+        </ul>
+        <hr>
+        <H1> Ordered list is presented as :</H1> <br>
+        <h2> Skills  </h2> <br>
+        <ol type="A">
+            <li> Problem-solving </li>
+            <li> Teamwork </li>
+            <li> Time management  </li>
+            <li> Leadership </li>
+        </ol>
+
+            
+
+            
+    </body>
+</html>
